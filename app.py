@@ -6,5 +6,5 @@ def main():
   st.title('Campus Virtual')
 
 if __name__ == '__main__':
-  st.set_option('server.enableCORS', True) 
+  st.set_option('server.enableCORS', False) 
   main()
